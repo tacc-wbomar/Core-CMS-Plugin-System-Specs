@@ -24,15 +24,6 @@ After cloning this repository for your plugin:
 1. Add instance of plugin to a page.
 1. Configure the plugin instance.
 1. (Optional) Add and nest plugin instances to support extra content.
-    <details>
-
-    | content | supported by |
-    | :- | :- |
-    | subsystem/resources data | [`taccsite_data_list`][tacc-dlist] |
-    | system image | [`djangocms-picture`][dcms-picture] |
-    | system monitor | [`taccsite_system_monitor`][tacc-sysmon] |
-
-    </details>
 1. See plugin render content that matches configuration (and nested plugin instances).
 
 [dcms-picture]: https://github.com/django-cms/djangocms-picture
@@ -43,3 +34,12 @@ After cloning this repository for your plugin:
 
 1. Renders heading, description, and structured data about a system.
 1. Renders supported, nested plugin instances to incorporate extra content.
+    <details>
+
+    | content | supported by |
+    | :- | :- |
+    | subsystem/resources data | [`taccsite_data_list`][tacc-dlist] |
+    | system image | [`djangocms-picture`][dcms-picture] |
+    | system monitor | [`taccsite_system_monitor`][tacc-sysmon] |
+
+    </details>
