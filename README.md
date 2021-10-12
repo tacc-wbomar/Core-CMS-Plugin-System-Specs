@@ -23,7 +23,7 @@ After cloning this repository for your plugin:
 
 1. Add instance of plugin to a page.
 1. Configure the plugin instance.
-1. (Optional) Add nested plugins to support extra content.
+1. (Optional) Add nested plugin instances to support extra content.
     <details>
 
     | content | supported by |
@@ -33,7 +33,7 @@ After cloning this repository for your plugin:
     | system monitor | [`taccsite_system_monitor`][tacc-sysmon] |
 
     </details>
-1. See plugin render content that matches configuration (and nested plugins).
+1. See plugin render content that matches configuration (and nested plugin instances).
 
 [dcms-picture]: https://github.com/tacc-wbomar/Core-CMS-Plugin-Data-List
 [tacc-dlist]: https://github.com/django-cms/djangocms-picture
@@ -42,4 +42,4 @@ After cloning this repository for your plugin:
 ## Features
 
 1. Renders heading, description, and structured data about a system.
-1. Renders supported, nested plugins to incorporate extra content.
+1. Renders supported, nested plugin instances to incorporate extra content.
