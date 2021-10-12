@@ -23,7 +23,7 @@ After cloning this repository for your plugin:
 
 1. Add instance of plugin to a page.
 1. Configure the plugin instance.
-1. (Optional) Add nested plugin instances to support extra content.
+1. (Optional) Add and nest plugin instances to support extra content.
     <details>
 
     | content | supported by |
@@ -35,8 +35,8 @@ After cloning this repository for your plugin:
     </details>
 1. See plugin render content that matches configuration (and nested plugin instances).
 
-[dcms-picture]: https://github.com/tacc-wbomar/Core-CMS-Plugin-Data-List
-[tacc-dlist]: https://github.com/django-cms/djangocms-picture
+[dcms-picture]: https://github.com/django-cms/djangocms-picture
+[tacc-dlist]: https://github.com/tacc-wbomar/Core-CMS-Plugin-Data-List
 [tacc-sysmon]: https://github.com/tacc-wbomar/Core-CMS-Plugin-System-Monitor
 
 ## Features
