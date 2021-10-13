@@ -15,7 +15,7 @@ setup(
     license='BSD License',
     description='A DjangoCMS plugin (for TACC Core CMS) to render structured data for a system.',
     long_description=README,
-    url='https://github.com/TACC/Core-CMS-Plugin-System-Specs/',
+    url='https://github.com/tacc-wbomar/Core-CMS-Plugin-System-Specs/',
     author='Wesley Bomar',
     author_email='wbomar@tacc.utexas.edu',
     # SEE: https://pypi.org/classifiers/
