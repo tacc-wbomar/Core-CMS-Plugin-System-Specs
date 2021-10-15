@@ -3,8 +3,9 @@
 
 This plugin renders structured data about a TACC system.
 
-- __`__plugin_name__`__: `taccsite_system_specs`
-- __`__PluginName__`__: `TaccsiteSystemSpecs`
+- __`__dist-name__`__: `taccsite_system_specs`
+- __`__package_name__`__: `taccsite_system_specs`
+- __`__ClassName__`__: `TaccsiteSystemSpecs`
 - __"Plugin Name"__: "System Specs"
 
 ## For Plugin Developer

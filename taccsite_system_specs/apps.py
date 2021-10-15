@@ -1,4 +1,5 @@
 from django.apps import AppConfig
 
 class TaccsiteSystemSpecsConfig(AppConfig):
-    name = 'System Specs'
+    name = 'taccsite_system_specs'
+    verbose_name = 'System Specs'
