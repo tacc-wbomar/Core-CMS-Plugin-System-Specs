@@ -3,8 +3,8 @@
 
 This plugin renders structured data about a TACC system.
 
-- __`__dist-name__`__: `taccsite_system_specs`
-- __`__package_name__`__: `taccsite_system_specs`
+- __`__dist-name__`__: `djangocms-tacc-system-specs`
+- __`__package_name__`__: `djangocms_tacc_system_specs`
 - __`__ClassName__`__: `TaccsiteSystemSpecs`
 - __"Plugin Name"__: "System Specs"
 
@@ -39,8 +39,8 @@ After cloning this repository for your plugin:
 
     | content | supported by |
     | :- | :- |
-    | subsystem/resources data | [`taccsite_data_list`][tacc-dlist] |
+    | subsystem/resources data | [`djangocms_tacc_data_list`][tacc-dlist] |
     | system image | [`djangocms-picture`][dcms-picture] |
-    | system monitor | [`taccsite_system_monitor`][tacc-sysmon] |
+    | system monitor | [`djangocms_tacc_system_monitor`][tacc-sysmon] |
 
     </details>
